@@ -1,2 +1,2 @@
-create data base anand;
+create database anand;
 
